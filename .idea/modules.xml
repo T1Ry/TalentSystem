@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DB22/DB22.iml" filepath="$PROJECT_DIR$/DB22/DB22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TalentSystem.iml" filepath="$PROJECT_DIR$/.idea/TalentSystem.iml" />
+    </modules>
+  </component>
+</project>
